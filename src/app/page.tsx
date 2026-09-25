@@ -18,6 +18,7 @@ import Dashboard from "@/components/dashboard/Dashboard";
 import Comparison from "@/components/comparison/Comparison";
 import Future from "@/components/future/Future";
 import Impact from "@/components/impact/Impact";
+import Achievements from "@/components/achievements/Achievements";
 import Team from "@/components/team/Team";
 import WhatWouldYouExplore from "@/components/explore/WhatWouldYouExplore";
 import Contact from "@/components/contact/Contact";
@@ -48,6 +49,7 @@ export default function Page() {
         <Comparison />
         <Future />
         <Impact />
+        <Achievements />
         <Team />
         <WhatWouldYouExplore />
         <Contact />
