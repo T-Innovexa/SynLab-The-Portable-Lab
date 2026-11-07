@@ -1,1 +1,1 @@
-# SynLab-The-Portable-Lab
+# SynLab — The Portable Lab
